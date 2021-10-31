@@ -6,12 +6,12 @@
 Term: Fall 2021
 
 + Team 2 Members:
-	+Chen, Xueying xc2578@columbia.edu
-	+Cheung, Corwin cc4671@columbia.edu
-	+Harvey, Dan dyh2111@columbia.edu
-	+Park, Matthew msp2178@columbia.edu
-	+Wang, Wanxin ww2581@columbia.edu
-	+Yorulmaz, Egem ey2300@columbia.edu
+	+ Chen, Xueying xc2578@columbia.edu
+	+ Cheung, Corwin cc4671@columbia.edu
+	+ Harvey, Dan dyh2111@columbia.edu
+	+ Park, Matthew msp2178@columbia.edu
+	+ Wang, Wanxin ww2581@columbia.edu
+	+ Yorulmaz, Egem ey2300@columbia.edu
 
  The designated presenter is Cheung, Corwin
 
