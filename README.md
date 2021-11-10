@@ -13,9 +13,10 @@ Term: Fall 2021
 	+ Wang, Wanxin ww2581@columbia.edu
 	+ Yorulmaz, Egem ey2300@columbia.edu
 
- The designated presenter is Cheung, Corwin
+ The presenter is Dan Harvey.
 
-+ Project summary: In this project, we created ...
++ Project summary:  his project aims to develop an image classification algorithm for CIFAR10 like images that improves upon the baseline logistic regression model provided in the starter code.  Our Model I used a convolutional neural network via the Keras/TensorFlow Library, while our Model II aimed to improve upon the Model I by enhancing the noisy labels through weakly supervised learning.
+
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
